@@ -25,7 +25,7 @@
 * Aadhaar Card Application
 
 ## Account Details
-<img src="Account.png">
+<img src="Account.PNG">
 
 ## Contact
 Kalam Comunication,
