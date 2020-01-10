@@ -7,7 +7,8 @@
 <img src="im2.png"/>
 **Siva**
 <html>
-<marquee behavior="scroll" direction="left"> Welcome to Kalam Communication </marquee>
+<marquee behavior="scroll" direction="left"> <font size="3" color="red"> Welcome to Kalam Communication </font></marquee>
+<font size="3" color="red">This is some text!</font>
 </html>
 
 ## List of Works
