@@ -20,7 +20,10 @@
 </html>
 
 <html>
-<marquee behavior="scroll" direction="left"> <font size="20" color="red"> 	Xerox	A4-1page-1Rs
+<marquee behavior="scroll" direction="left"> <font size="20" color="red"> 	Xerox	A4-Paper-1page-1Rs, A3-Paper-1page-3Rs, Legal-Paper-1page-2Rs
+ 
+<html>
+<marquee behavior="scroll" direction="left"> <font size="20" color="green"> 	Printout	A4-Paper-1page-2Rs, A3-Paper-1page-6Rs, Legal-Paper-1page-3Rs
 </font></marquee>
 </html>
 
