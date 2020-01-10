@@ -56,7 +56,7 @@
 
 <h2>Computer Program Coaching Registration Form</h2>
 
-<form action="Registration.php" method="get">
+<form action="https://github.com/siva198432/KalamCommunication/blob/master/Registration.php" method="get">
   First name:<br>
   <input type="text" name="firstname" value="Enter here">
   <br>
