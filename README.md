@@ -65,7 +65,7 @@
   <input type="text" name="lastname" value="Enter here">
   <br><br>
   Phone Number:<br>
-  <input type="text" name="Mobile Number" value="Enter here">
+  <input type="text" name="mobilenumber" value="Enter here">
   <br><br>
   <input type="submit" value="Submit">
 </form> 
