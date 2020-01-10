@@ -50,9 +50,8 @@
 * MATLAB Software (For Arts, Science and Engineering College students)
 * LABVIEW Software (For Arts, Science and Engineering College students)
 
-[Computer Program Coaching Registration Form](https://github.com/siva198432/KalamCommunication/edit/master/README.md)
+[Computer Program Coaching Registration Form](https://github.com/siva198432/KalamCommunication/blob/master/studentregistration.html)
 
-<!DOCTYPE HTML>
 <html>
 <body>
 
