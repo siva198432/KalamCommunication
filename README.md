@@ -50,12 +50,13 @@
 * MATLAB Software (For Arts, Science and Engineering College students)
 * LABVIEW Software (For Arts, Science and Engineering College students)
 
+<!DOCTYPE HTML>
 <html>
 <body>
 
 <h2>Computer Program Coaching Registration Form</h2>
 
-<form action="Registration.php">
+<form action="Registration.php" method="get">
   First name:<br>
   <input type="text" name="firstname" value="Enter here">
   <br>
