@@ -50,7 +50,6 @@
 * MATLAB Software (For Arts, Science and Engineering College students)
 * LABVIEW Software (For Arts, Science and Engineering College students)
 
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -81,7 +80,14 @@
 </body>
 </html>
 
- 
+<html>
+<form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
+</form>
+</html>
 
 ## Account Details
 ....... Under Contruction...........
