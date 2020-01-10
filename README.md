@@ -1,5 +1,5 @@
 # KalamCommunication (Welcome to Kalam Communication .............)
-<img src="im1.jpg"
+<img src="im1.jpeg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
