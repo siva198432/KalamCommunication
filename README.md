@@ -55,15 +55,15 @@
 
 <h2>Computer Program Coaching Registration Form</h2>
 
-<form action="/action_page.php">
+<form action="https://github.com/siva198432/KalamCommunication/blob/master/Registration.txt">
   First name:<br>
-  <input type="text" name="firstname" value="Mickey">
+  <input type="text" name="firstname" value="Enter here">
   <br>
   Last name:<br>
-  <input type="text" name="lastname" value="Mouse">
+  <input type="text" name="lastname" value="Enter here">
   <br><br>
   Phone Number:<br>
-  <input type="text" name="Mobile Number" value="8056909978">
+  <input type="text" name="Mobile Number" value="Enter here">
   <br><br>
   <input type="submit" value="Submit">
 </form> 
