@@ -16,11 +16,12 @@
 <p> I am P. Siva Owner of this shop, here I am doing computer related works. I am listed in the following  </p>
 
 <html>
-<marquee behavior="scroll" direction="left"> <font size="30" color="blue"> Xerox------Printout-------Computer -------- </font></marquee>
+<marquee behavior="scroll" direction="left"> <font size="30" color="blue"> Xerox------Printout-------Computer Software and Hardware-------- </font></marquee>
 </html>
 
 <html>
 <marquee behavior="scroll" direction="left"> <font size="20" color="red"> 	Xerox	A4-Paper-1page-1Rs, A3-Paper-1page-3Rs, Legal-Paper-1page-2Rs
+</html>
  
 <html>
 <marquee behavior="scroll" direction="left"> <font size="20" color="green"> 	Printout	A4-Paper-1page-2Rs, A3-Paper-1page-6Rs, Legal-Paper-1page-3Rs
