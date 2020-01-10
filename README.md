@@ -53,7 +53,7 @@
 <html>
 <body>
 
-<h2>Registration Form</h2>
+<h2>Computer Program Coaching Registration Form</h2>
 
 <form action="/action_page.php">
   First name:<br>
