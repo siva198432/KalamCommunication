@@ -53,30 +53,25 @@
 <html>
 <body>
 
-<form action="action_page.php">
-  <div class="container">
-    <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
+<h2>HTML Forms</h2>
 
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" required>
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  Phone Number:<br>
+  <input type="text" name="Mobile Number" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
 
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
-    <hr>
-
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-</form>
+</body>
+</html>
 </body>
 </html>
 
@@ -85,7 +80,7 @@
   First name:<br>
   <input type="text" name="firstname"><br>
   Last name:<br>
-  <input type="text" name="lastname">
+  <input type="text" name="8056909978">
 </form>
 </html>
 
