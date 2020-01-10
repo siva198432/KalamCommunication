@@ -19,8 +19,16 @@
 <marquee behavior="scroll" direction="left"> <font size="30" color="blue"> Xerox------Printout-------Computer -------- </font></marquee>
 </html>
 
+<html>
+<marquee behavior="scroll" direction="left"> <font size="20" color="red"> 	Xerox	Printout
+A4-1page	1 Rs	2 Rs
+Legal-1Page	2 RS	3 Rs
+A3-Page	3 Rs	6 Rs
+</font></marquee>
+</html>
+
 ## List of Works
-* Xerox [<html><blink> A4-1page	1 Rs </blink></html>]
+* Xerox  
 * Print out
 * Aadhaar Card Application
 
