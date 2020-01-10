@@ -4,14 +4,9 @@
 </html>
 
 # Welcome to Kalam Communication 
-<img src="im2.png">
-
 <html>
 <body>
-
-<h2>Kalam Communication</h2>
 <img src="im3.png" alt="Trulli" width="700" height="500">
-
 </body>
 </html>
 
