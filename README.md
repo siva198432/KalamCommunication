@@ -20,8 +20,7 @@
 </html>
 
 ## List of Works
-* Xerox <html><blink> A4-1page	1 Rs </blink></html>
-
+* Xerox [<html><blink> A4-1page	1 Rs </blink></html>]
 * Print out
 * Aadhaar Card Application
 
