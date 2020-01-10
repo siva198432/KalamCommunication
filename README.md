@@ -1,5 +1,5 @@
 <html>
-<marquee behavior="scroll" direction="left"> <font size="5" color="red"> Welcome to Kalam Communication </font></marquee>
+<marquee behavior="scroll" direction="left"> <font size="10" color="blue"> Welcome to Kalam Communication </font></marquee>
 </html>
 
 # Welcome to Kalam Communication 
@@ -7,7 +7,7 @@
 <html>
 <body>
 
-<h2>HTML Image</h2>
+<h2>Kalam Communication</h2>
 <img src="im1.jpeg" alt="Trulli" width="500" height="333">
 
 </body>
