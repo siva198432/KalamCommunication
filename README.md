@@ -1,6 +1,6 @@
 <html>
 <marquee behavior="scroll" direction="left"> <font size="20" color="blue"> 
-கலாம்  தொடர்பு மற்றும் வலைப்பின்னல்----- Welcome to Kalam Communication </font></marquee>
+கலாம்  தொடர்பு மற்றும் வலைப்பின்னல் - Welcome to Kalam Communication </font></marquee>
 </html>
 
 # Welcome to Kalam Communication 
@@ -34,6 +34,28 @@
 * Xerox  
 * Print out
 * Aadhaar Card Application
+
+## Computer Hardware Work
+* Desktop Computer repairing 
+* Laptop repairing 
+
+## Computer Software Work
+* Desktop software Installation
+* Laptop software Installation
+
+## Operating System
+* Windows7, Windows10
+* Linux, DOS
+
+## Computer Programing (Online and Offline Coaching)
+* Computer painting, Drawing (For school students)
+* Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
+* C-Program and C++ (For Arts, Science and Engineering College students)
+* Origin Software (For Arts, Science and Engineering College students)
+* Python Software (For Arts, Science and Engineering College students)
+* MATLAB Software (For Arts, Science and Engineering College students)
+* LABVIEW Software (For Arts, Science and Engineering College students)
+ 
 
 ## Account Details
 ....... Under Contruction...........
