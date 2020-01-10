@@ -1,5 +1,5 @@
 <html>
-<marquee behavior="scroll" direction="left"> <font size="10" color="blue"> Welcome to Kalam Communication </font></marquee>
+<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> Welcome to Kalam Communication </font></marquee>
 </html>
 
 # Welcome to Kalam Communication 
