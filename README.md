@@ -50,6 +50,10 @@
 * MATLAB Software (For Arts, Science and Engineering College students)
 * LABVIEW Software (For Arts, Science and Engineering College students)
 
+<!DOCTYPE html>
+<html>
+<body>
+
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
@@ -74,6 +78,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+</body>
+</html>
 
  
 
