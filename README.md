@@ -53,7 +53,7 @@
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h2>Registration Form</h2>
 
 <form action="/action_page.php">
   First name:<br>
@@ -63,25 +63,11 @@
   <input type="text" name="lastname" value="Mouse">
   <br><br>
   Phone Number:<br>
-  <input type="text" name="Mobile Number" value="Mouse">
+  <input type="text" name="Mobile Number" value="8056909978">
   <br><br>
   <input type="submit" value="Submit">
 </form> 
-
-<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
-
 </body>
-</html>
-</body>
-</html>
-
-<html>
-<form>
-  First name:<br>
-  <input type="text" name="firstname"><br>
-  Last name:<br>
-  <input type="text" name="8056909978">
-</form>
 </html>
 
 ## Account Details
