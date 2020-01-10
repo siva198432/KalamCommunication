@@ -24,6 +24,9 @@
 * Print out
 * Aadhaar Card Application
 
+## Account Details
+<img src="Account.png">
+
 ## Contact
 Kalam Comunication,
 PRC- Opposite, Sattur,
