@@ -55,7 +55,7 @@
 
 <h2>Computer Program Coaching Registration Form</h2>
 
-<form action="Registration.php" method="get">
+<form action="Registration.php">
   First name:<br>
   <input type="text" name="firstname" value="Enter here">
   <br>
