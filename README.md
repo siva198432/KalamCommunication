@@ -15,6 +15,9 @@
 
 <p> I am P. Siva Owner of this shop, here I am doing computer related works. I am listed in the following  </p>
 
+<html>
+<marquee behavior="scroll" direction="left"> <font size="30" color="blue"> Xerox-------- Xerox-------- Xerox-------- </font></marquee>
+</html>
 
 ## List of Works
 * Xerox
