@@ -4,7 +4,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="im1.jpg" alt="Trulli" width="500" height="333">
+<img src="im1.jpeg" alt="Trulli" width="500" height="333">
 
 </body>
 </html>
