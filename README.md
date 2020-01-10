@@ -10,7 +10,7 @@
 <body>
 
 <h2>Kalam Communication</h2>
-<img src="im3.png" alt="Trulli" width="500" height="333">
+<img src="im3.png" alt="Trulli" width="700" height="500">
 
 </body>
 </html>
