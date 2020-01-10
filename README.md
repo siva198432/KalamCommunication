@@ -6,7 +6,9 @@
 
 <img src="im2.png"/>
 
-<marquee behavior="scroll" direction="left"> Welcome to Kalam Communication right to left!</marquee>
+<html>
+<marquee behavior="scroll" direction="left"> Welcome to Kalam Communication </marquee>
+</html>
 
 ## List of Works
 * Xerox
