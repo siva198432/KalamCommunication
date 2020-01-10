@@ -48,7 +48,7 @@
 * Windows7, Windows10
 * Linux, DOS
 
-## Computer Programing (Online and Offline Coaching)
+## Computer programming (Online and Offline Coaching)
 * Computer painting, Drawing (For school students)
 * Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
 * C-Program and C++ (For Arts, Science and Engineering College students)
