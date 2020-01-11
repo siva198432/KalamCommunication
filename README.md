@@ -1,8 +1,12 @@
 <html>
 <marquee behavior="scroll" direction="left"> <font size="20" color="blue"> 
 கலாம்  தொடர்பு மற்றும் வலைப்பின்னல் - Welcome to Kalam Communication </font></marquee>
-</html>
-
+ </html>
+ 
+ <html>
+<blink> கலாம்  தொடர்பு மற்றும் வலைப்பின்னல் </blink>
+ </html>
+ 
 # Welcome to Kalam Communication 
 <html>
 <body>
