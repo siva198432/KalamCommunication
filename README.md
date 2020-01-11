@@ -17,12 +17,12 @@
 </html>
 
 <html>
-<marquee behavior="scroll" direction="left"> <font size="10" color="red"> 	Xerox	A4-Paper-1page-1Rs, A3-Paper-1page-3Rs, Legal-Paper-1page-2Rs
+<marquee behavior="scroll" direction="left"> <font size="5" color="red"> 	Xerox	A4-Paper-1page-1Rs, A3-Paper-1page-3Rs, Legal-Paper-1page-2Rs
 </font></marquee>
 </html>
  
 <html>
-<marquee behavior="scroll" direction="left"> <font size="10" color="green"> 	Printout	A4-Paper-1page-2Rs, A3-Paper-1page-6Rs, Legal-Paper-1page-3Rs
+<marquee behavior="scroll" direction="left"> <font size="5" color="green"> 	Printout	A4-Paper-1page-2Rs, A3-Paper-1page-6Rs, Legal-Paper-1page-3Rs
 </font></marquee>
 </html>
 
