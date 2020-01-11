@@ -85,10 +85,6 @@ Cell No: 8056909978,
 Email id : kalammccn@gmail.com
 
 <html>
- <iframe src="https://calendar.google.com/calendar/embed?src=mvkumar198525%40gmail.com&ctz=Asia%2FJerusalem" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</html>
-
-<html>
 <a class="weatherwidget-io" href="https://forecast7.com/en/9d3677d91/sattur/" data-label_1="SATTUR" data-label_2="WEATHER" data-theme="original" >SATTUR WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
