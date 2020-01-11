@@ -7,7 +7,7 @@
 <html>
 <body>
 <img src="im3.png" alt="Trulli" width="800" height="400">
- <img src="im1.jpeg" alt="Trulli" width="800" height="400">
+ <img src="im1.jpeg" alt="Trulli" width="400" height="400">
 </body>
 </html>
 
