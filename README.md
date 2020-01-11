@@ -42,7 +42,10 @@
 * Windows7, Windows10
 * Linux, DOS
 
-## Computer programming (Online and Offline Coaching)
+## Computer programming 
+<html>
+<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> Online and Offline Coaching </font></marquee>
+</html>
 * Computer painting, Drawing (For school students)
 * Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
 * [C-Program](https://www.programiz.com/c-programming) and [C++](https://www.programiz.com/cpp-programming) (For Arts, Science and Engineering College students)
