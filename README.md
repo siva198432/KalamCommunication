@@ -49,10 +49,10 @@
 * Computer painting, Drawing (For school students)
 * Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
 * [C-Program](https://www.programiz.com/c-programming) and [C++](https://www.programiz.com/cpp-programming) (For Arts, Science and Engineering College students)
-* Origin [Software](https://www.originlab.com/) (For Arts, Science and Engineering College students)
-* Python [Software](https://www.python.org/) (For Arts, Science and Engineering College students)
-* MATLAB [Software](https://www.mathworks.com/products/matlab.html)(For Arts, Science and Engineering College students)
-* LABVIEW [Software](https://www.ni.com/en-il/shop/labview.html) (For Arts, Science and Engineering College students)
+* [Origin Software](https://www.originlab.com/) (For Arts, Science and Engineering College students)
+* [Python Software](https://www.python.org/) (For Arts, Science and Engineering College students)
+* [MATLAB Software](https://www.mathworks.com/products/matlab.html)(For Arts, Science and Engineering College students)
+* [LABVIEW Software](https://www.ni.com/en-il/shop/labview.html) (For Arts, Science and Engineering College students)
 
 [Computer Program Coaching Registration Form](https://github.com/siva198432/KalamCommunication/blob/master/studentregistration.html)
 
