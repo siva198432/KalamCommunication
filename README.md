@@ -13,7 +13,7 @@
 </html>
 
 <html>
-<marquee behavior="scroll" direction="left"> <font size="10" color="blue"> Xerox------Printout-------Computer Software and Hardware-----</font></marquee>
+<marquee behavior="scroll" direction="left"> <font size="10" color="blue"> பள்ளி மற்றும் கல்லூரி ப்ராஜெக்ட்(Project) செய்து தரப்படும்</font></marquee>
 </html>
 
 <html>
