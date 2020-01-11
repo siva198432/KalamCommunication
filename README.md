@@ -13,7 +13,7 @@
 </html>
 
 <html>
-<marquee behavior="scroll" direction="left"> <font size="30" color="blue"> Xerox------Printout-------Computer Software and Hardware-----</font></marquee>
+<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> Xerox------Printout-------Computer Software and Hardware-----</font></marquee>
 </html>
 
 <html>
