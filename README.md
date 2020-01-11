@@ -7,8 +7,8 @@
 <html>
 <body>
 <img src="im3.png" alt="Trulli" width="800" height="400">
-<img src="im1.jpeg" alt="Trulli" width="400" height="400"> <img src="im5.jpeg" alt="Trulli" width="400" height="400">
-<img src="im6.jpg" alt="Trulli" width="400" height="400"> <img src="im7.jpg" alt="Trulli" width="400" height="400">
+<img src="im1.jpeg" alt="Trulli" width="200" height="200"> <img src="im5.jpeg" alt="Trulli" width="200" height="200">
+<img src="im6.jpg" alt="Trulli" width="200" height="200"> <img src="im7.jpg" alt="Trulli" width="200" height="200">
 </body>
 </html>
 
