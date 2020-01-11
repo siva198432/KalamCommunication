@@ -25,9 +25,9 @@
 </html>
 
 ## List of Works
-* Xerox  
-* Print out
-* Aadhaar Card Application
+* Mobile repairing
+* Xerox/Printout
+* Online works
 
 ## Computer Hardware Work
 * Desktop Computer repairing 
@@ -74,7 +74,7 @@
 
 
 ## Contact
-**P Siva**
+**P Siva**,
 Kalam Comunication,
 PRC- Opposite, Sattur,
 Tamil Nadu,
