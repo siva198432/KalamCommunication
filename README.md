@@ -3,6 +3,16 @@
 கலாம்  தொடர்பு மற்றும் வலைப்பின்னல் - Welcome to Kalam Communication </font></marquee>
  </html>
  
+ <script>
+function blinker() {
+	$('.blinking').fadeOut(500);
+	$('.blinking').fadeIn(500);
+}
+setInterval(blinker, 1000);
+</script>
+
+<p class="blinking">Example of blinking text using JavaScript.</p>
+
  <html>
 <blink> கலாம்  தொடர்பு மற்றும் வலைப்பின்னல் </blink>
  </html>
