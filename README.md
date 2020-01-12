@@ -93,7 +93,7 @@ video {
 * [MATLAB Software](https://www.mathworks.com/products/matlab.html) (For Arts, Science and Engineering College students)
 * [LABVIEW Software](https://www.ni.com/en-il/shop/labview.html) (For Arts, Science and Engineering College students)
 
-[Computer Program Coaching Registration Form](https://github.com/siva198432/KalamCommunication/blob/master/studentregistration.html)
+[Computer Program Coaching Registration Form](resource/studentregistration.html)
 
 <html>
 <body>
