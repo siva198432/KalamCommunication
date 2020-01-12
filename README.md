@@ -98,7 +98,7 @@ video {
 <html>
 <body>
 <h2>Computer Program Coaching Registration Form</h2>
-<form action="https://github.com/siva198432/KalamCommunication/blob/master/Registration.php" method="get">
+<form action="resource/Registration.php" method="get">
   First name:<br>
   <input type="text" name="firstname" value="Enter here">
   <br>
@@ -115,12 +115,12 @@ video {
 
 
 ## Contact
-**P Siva,
+**P Siva**,
 Kalam Comunication,
 PRC- Opposite, Sattur,
 Tamil Nadu,
 Cell No: 8056909978,
-Email id : kalammccn@gmail.com **
+Email id : kalammccn@gmail.com 
 
 <html>
 <a class="weatherwidget-io" href="https://forecast7.com/en/9d3677d91/sattur/" data-label_1="SATTUR" data-label_2="WEATHER" data-theme="original" >SATTUR WEATHER</a>
