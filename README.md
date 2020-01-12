@@ -77,7 +77,7 @@ video {
 * [C-Program](https://www.programiz.com/c-programming) and [C++](https://www.programiz.com/cpp-programming) (For Arts, Science and Engineering College students)
 * [Origin Software](https://www.originlab.com/) (For Arts, Science and Engineering College students)
 * [Python Software](https://www.python.org/) (For Arts, Science and Engineering College students)
-* [MATLAB Software](https://www.mathworks.com/products/matlab.html)(For Arts, Science and Engineering College students)
+* [MATLAB Software](https://www.mathworks.com/products/matlab.html) (For Arts, Science and Engineering College students)
 * [LABVIEW Software](https://www.ni.com/en-il/shop/labview.html) (For Arts, Science and Engineering College students)
 
 [Computer Program Coaching Registration Form](https://github.com/siva198432/KalamCommunication/blob/master/studentregistration.html)
@@ -102,12 +102,12 @@ video {
 
 
 ## Contact
-**P Siva**,
+**P Siva,
 Kalam Comunication,
 PRC- Opposite, Sattur,
 Tamil Nadu,
 Cell No: 8056909978,
-Email id : kalammccn@gmail.com
+Email id : kalammccn@gmail.com **
 
 <html>
 <a class="weatherwidget-io" href="https://forecast7.com/en/9d3677d91/sattur/" data-label_1="SATTUR" data-label_2="WEATHER" data-theme="original" >SATTUR WEATHER</a>
