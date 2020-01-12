@@ -14,6 +14,19 @@
 </html>
 
 <html>
+<body>
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="Mannulagil Indru Devan.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
+
+
+<html>
 <marquee behavior="scroll" direction="left"> <font size="10" color="blue"> பள்ளி மற்றும் கல்லூரி ப்ராஜெக்ட்(Project) செய்து தரப்படும்</font></marquee>
 </html>
 
