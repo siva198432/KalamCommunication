@@ -73,7 +73,7 @@ video {
 ## College Project Report
 * Tying, editing Printing and Binding
 * Word Document
-* [LATEX Dcoument](https://www.latex-project.org/), Example: ![Sample](https://www.google.com/search?q=thesis+front+page+latex&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_8Lrd5f_mAhWBGewKHX58ChwQ_AUoAXoECAwQAw&biw=1360&bih=657#imgrc=_)
+* [LATEX Dcoument](https://www.latex-project.org/), Example: ![Sample](https://www.google.com/search?q=thesis+front+page+latex&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_8Lrd5f_mAhWBGewKHX58ChwQ_AUoAXoECAwQAw&biw=1360&bih=657#imgrc=9jyot33-IwIBdM:)
 ## Computer Hardware Work
 * Desktop Computer repairing 
 * Laptop repairing 
