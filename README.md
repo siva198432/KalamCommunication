@@ -88,7 +88,7 @@ video {
 
 ## Computer programming 
 <html>
-<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> Online and Offline Coaching will be started very soon.....</font></marquee>
+<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
 </html>
 * Computer painting, Drawing (For school students)
 * Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
