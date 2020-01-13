@@ -65,10 +65,15 @@ video {
 
 
 ## List of Works
+* College Project Work/Final Year Report
 * Mobile repairing
 * Xerox/Printout
 * Online works
 
+## College Project Report
+* Tying, editing Printing and Binding
+* Word Document
+* [LATEX Dcoument](https://www.latex-project.org/), Example: ![Sample](https://www.google.com/search?q=thesis+front+page+latex&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_8Lrd5f_mAhWBGewKHX58ChwQ_AUoAXoECAwQAw&biw=1360&bih=657#imgrc=_)
 ## Computer Hardware Work
 * Desktop Computer repairing 
 * Laptop repairing 
