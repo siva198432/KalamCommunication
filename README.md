@@ -71,7 +71,7 @@ video {
 * Online works
 
 ## College Project Report
-* Tying, editing, Printing and Binding
+* Typing, Editing, Printing and Binding
 * Word Document [For sample please click here](https://www.google.com/search?q=thesis+front+page+anna+university&oq=thesis&aqs=chrome.0.69i59l2j69i57j0l5.8922j0j8&sourceid=chrome&ie=UTF-8)
 * [LATEX Dcoument](https://www.latex-project.org/), Example: [For sample please click here](https://www.overleaf.com/gallery/tagged/title-page)
 ## Computer Hardware Work
