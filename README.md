@@ -57,12 +57,12 @@ video {
   <source src="mov_bbb.ogg" type="video/ogg">
   Your browser does not support HTML5 video.
 </video>
-
-<p>Resize the browser window to see how the size of the video player will scale.</p>
-
 </body>
 </html>
 
+<html>
+<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
+</html>
 
 ## List of Works
 * College Project Work/Final Year Report
@@ -87,9 +87,6 @@ video {
 * Linux, DOS
 
 ## Computer programming 
-<html>
-<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
-</html>
 * Computer painting, Drawing (For school students)
 * Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
 * [C-Program](https://www.programiz.com/c-programming) and [C++](https://www.programiz.com/cpp-programming) (For Arts, Science and Engineering College students)
