@@ -98,24 +98,6 @@ video {
 
 [Computer Program Coaching Registration Form](resource/studentregistration.html)
 
-<html>
-<body>
-<h2>Computer Program Coaching Registration Form</h2>
-<form action="resource/Registration.php" method="get">
-  First name:<br>
-  <input type="text" name="firstname" value="Enter here">
-  <br>
-  Last name:<br>
-  <input type="text" name="lastname" value="Enter here">
-  <br><br>
-  Phone Number:<br>
-  <input type="text" name="mobilenumber" value="Enter here">
-  <br><br>
-  <input type="submit" value="Submit">
-</form> 
-</body>
-</html>
-
 
 ## Contact
 **P Siva**,
