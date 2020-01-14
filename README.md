@@ -31,7 +31,7 @@ Your browser does not support the audio element.
 <div class="col-sm-4">  
 <div class="playcover">  
 <div class="title"><h2>Suryan 93.5 FM</h2></div>
-<div class="box"><img src="assets/img/radio-logos/Suryan.jpg" alt="Suryan 93.5 FM">
+<div class="box"><img src="images/Suryan.jpg" alt="Suryan 93.5 FM">
 <div class="description">Suryan 93.5 FM
 <br>Genre : Live    
 <br>Location : Tamilnadu
