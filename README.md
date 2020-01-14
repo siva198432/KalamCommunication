@@ -25,6 +25,27 @@ Your browser does not support the audio element.
 </body>
 </html>
 
+<html>
+</div> 
+</div>  
+<div class="col-sm-4">  
+<div class="playcover">  
+<div class="title"><h2>Suryan 93.5 FM</h2></div>
+<div class="box"><img src="assets/img/radio-logos/Suryan.jpg" alt="Suryan 93.5 FM">
+<div class="description">Suryan 93.5 FM
+<br>Genre : Live    
+<br>Location : Tamilnadu
+<br>Website : http://www.suryanfm.in/
+<br>Email : 
+<hr/>
+</div>
+<p>
+<audio controls autoplay="true">
+<source src="http://51.15.86.61:8002/1">
+</audio></p>
+    </div></div>
+</div>
+</html>
 
 <html>
 <marquee behavior="scroll" direction="left"> <font size="10" color="blue"> பள்ளி மற்றும் கல்லூரி ப்ராஜெக்ட்(Project) செய்து தரப்படும்</font></marquee>
