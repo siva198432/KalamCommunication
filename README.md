@@ -16,16 +16,6 @@
 </html>
 
 <html>
-<body>
-<audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="Mannulagil Indru Devan.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</body>
-</html>
-
-<html>
 <div class="col-sm-4">  
 <div class="playcover">  
 <div class="title"><h2>Suryan 93.5 FM</h2></div>
