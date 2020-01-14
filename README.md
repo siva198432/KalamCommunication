@@ -18,8 +18,6 @@
 <html>
 <div class="col-sm-4">  
 <div class="playcover">  
-<div class="title"><h2>Suryan 93.5 FM</h2></div>
-<div class="box"><img src="images/Suryan.jpg" alt="Suryan 93.5 FM">
 </div>
 <p>
 <audio controls autoplay="true">
