@@ -65,6 +65,8 @@ video {
 </html>
 
 [For Government Jobs please click here](https://www.freshersworld.com/jobs/category/govt-sector-job-vacancies)
+[For TNPSC](http://www.tnpsc.gov.in/), [SSC](https://ssc.nic.in/), [UPSC](https://www.upsc.gov.in/) and [Join Indian Army](https://joinindianarmy.nic.in/Authentication.aspx)
+
 
 ## List of Works
 * College Project Work/Final Year Report
