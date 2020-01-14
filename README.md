@@ -64,10 +64,10 @@ video {
 <marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
 </html>
 ## Governement Jobs
-* [click here](https://www.freshersworld.com/jobs/category/govt-sector-job-vacancies)
-* [Tamil Nadu Public Service Comminsion (TNPSC)](http://www.tnpsc.gov.in/), 
-* [Staff Selection Commission (SSC)](https://ssc.nic.in/),
-* [Union Public Service Commission (UPSC)](https://www.upsc.gov.in/),
+* [Acadamic Jobs click here](https://www.freshersworld.com/jobs/category/govt-sector-job-vacancies)
+* [Tamil Nadu Public Service Comminsion (TNPSC)](http://www.tnpsc.gov.in/) 
+* [Staff Selection Commission (SSC)](https://ssc.nic.in/)
+* [Union Public Service Commission (UPSC)](https://www.upsc.gov.in/)
 * [Join Indian Army](https://joinindianarmy.nic.in/Authentication.aspx)
 
 
