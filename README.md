@@ -20,11 +20,6 @@
 <div class="playcover">  
 <div class="title"><h2>Suryan 93.5 FM</h2></div>
 <div class="box"><img src="images/Suryan.jpg" alt="Suryan 93.5 FM">
-<div class="description">Suryan 93.5 FM
-<br>Genre : Live    
-<br>Location : Tamilnadu
-<br>Website : http://www.suryanfm.in/
-<hr/>
 </div>
 <p>
 <audio controls autoplay="true">
