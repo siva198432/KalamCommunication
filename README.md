@@ -65,10 +65,10 @@ video {
 </html>
 ## Governement Jobs
 * [Acadamic Jobs click here](https://www.freshersworld.com/jobs/category/govt-sector-job-vacancies){:target="_blank"}
-* [Tamil Nadu Public Service Comminsion (TNPSC)](http://www.tnpsc.gov.in/) 
-* [Staff Selection Commission (SSC)](https://ssc.nic.in/)
-* [Union Public Service Commission (UPSC)](https://www.upsc.gov.in/)
-* [Join Indian Army](https://joinindianarmy.nic.in/Authentication.aspx)
+* [Tamil Nadu Public Service Comminsion (TNPSC)](http://www.tnpsc.gov.in/){:target="_blank"}
+* [Staff Selection Commission (SSC)](https://ssc.nic.in/){:target="_blank"}
+* [Union Public Service Commission (UPSC)](https://www.upsc.gov.in/){:target="_blank"}
+* [Join Indian Army](https://joinindianarmy.nic.in/Authentication.aspx){:target="_blank"}
 
 
 ## List of Works
@@ -79,8 +79,8 @@ video {
 
 ## College Project Report
 * Typing, Editing, Printing and Binding
-* Word Document [For sample please click here](https://www.google.com/search?q=thesis+front+page+anna+university&oq=thesis&aqs=chrome.0.69i59l2j69i57j0l5.8922j0j8&sourceid=chrome&ie=UTF-8)
-* [LATEX Dcoument](https://www.latex-project.org/), Example: [For sample please click here](https://www.overleaf.com/gallery/tagged/title-page) and [Open Source Texstudio free...](https://www.texstudio.org/)
+* Word Document [For sample please click here](https://www.google.com/search?q=thesis+front+page+anna+university&oq=thesis&aqs=chrome.0.69i59l2j69i57j0l5.8922j0j8&sourceid=chrome&ie=UTF-8){:target="_blank"}
+* [LATEX Dcoument](https://www.latex-project.org/), Example: [For sample please click here](https://www.overleaf.com/gallery/tagged/title-page){:target="_blank"} and [Open Source Texstudio free...](https://www.texstudio.org/){:target="_blank"}
 
 ## Computer Hardware Work
 * Desktop Computer repairing 
@@ -97,13 +97,13 @@ video {
 ## Computer programming 
 * Computer painting, Drawing (For school students)
 * Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
-* [C-Program](https://www.programiz.com/c-programming) and [C++](https://www.programiz.com/cpp-programming) (For Arts, Science and Engineering College students)
-* [Origin Software](https://www.originlab.com/) (For Arts, Science and Engineering College students)
-* [Python Software](https://www.python.org/) (For Arts, Science and Engineering College students)
-* [MATLAB Software](https://www.mathworks.com/products/matlab.html) (For Arts, Science and Engineering College students)
-* [LABVIEW Software](https://www.ni.com/en-il/shop/labview.html) (For Arts, Science and Engineering College students)
+* [C-Program](https://www.programiz.com/c-programming){:target="_blank"} and [C++](https://www.programiz.com/cpp-programming){:target="_blank"} (For Arts, Science and Engineering College students)
+* [Origin Software](https://www.originlab.com/) (For Arts, Science and Engineering College students){:target="_blank"}
+* [Python Software](https://www.python.org/) (For Arts, Science and Engineering College students){:target="_blank"}
+* [MATLAB Software](https://www.mathworks.com/products/matlab.html) (For Arts, Science and Engineering College students){:target="_blank"}
+* [LABVIEW Software](https://www.ni.com/en-il/shop/labview.html) (For Arts, Science and Engineering College students){:target="_blank"}
 
-[Computer Program Coaching Registration Form](resource/studentregistration.html)
+[Computer Program Coaching Registration Form](resource/studentregistration.html){:target="_blank"}
 
 
 ## Contact
