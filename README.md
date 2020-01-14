@@ -65,9 +65,9 @@ video {
 </html>
 ## Governement Jobs
 * [click here](https://www.freshersworld.com/jobs/category/govt-sector-job-vacancies)
-* [For TNPSC](http://www.tnpsc.gov.in/), 
-* [SSC](https://ssc.nic.in/),
-* [UPSC](https://www.upsc.gov.in/),
+* [Tamil Nadu Public Service Comminsion (TNPSC)](http://www.tnpsc.gov.in/), 
+* [Staff Selection Commission (SSC)](https://ssc.nic.in/),
+* [Union Public Service Commission (UPSC)](https://www.upsc.gov.in/),
 * [Join Indian Army](https://joinindianarmy.nic.in/Authentication.aspx)
 
 
