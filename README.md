@@ -26,8 +26,6 @@ Your browser does not support the audio element.
 </html>
 
 <html>
-</div> 
-</div>  
 <div class="col-sm-4">  
 <div class="playcover">  
 <div class="title"><h2>Suryan 93.5 FM</h2></div>
@@ -36,7 +34,6 @@ Your browser does not support the audio element.
 <br>Genre : Live    
 <br>Location : Tamilnadu
 <br>Website : http://www.suryanfm.in/
-<br>Email : 
 <hr/>
 </div>
 <p>
