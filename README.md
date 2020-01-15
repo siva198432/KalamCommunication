@@ -25,7 +25,7 @@
 </audio></p>
 </div>
 </html>
-(blob:https://web.whatsapp.com/6175621e-674d-491a-bcd5-0eb84844373f)
+
 <html>
 <marquee behavior="scroll" direction="left"> <font size="10" color="blue"> பள்ளி மற்றும் கல்லூரி ப்ராஜெக்ட்(Project) செய்து தரப்படும்</font></marquee>
 </html>
