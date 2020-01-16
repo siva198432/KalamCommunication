@@ -53,20 +53,17 @@ video {
 <body>
 
 <video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
+<source src="mov_bbb.mp4" type="video/mp4">
+<source src="mov_bbb.ogg" type="video/ogg">
+ Your browser does not support HTML5 video.
 </video>
 </body>
 </html>
 
 <html>
-<head>
-<meta name="viewport" content="width=device-width"/>
-<meta http-equiv="expires" content="Mon, 26 Jul 1997 05:00:00 GMT"/>
-<meta http-equiv="pragma" content="no-cache" />
-<link rel="canonical" href="http://madhatv.in/">
-</head>
+<video width="320" height="240" controls>
+<source src="http://madhatv.in/" type="video/mp4">
+</video>
 </html>
 
 <html>
