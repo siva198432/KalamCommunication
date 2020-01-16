@@ -61,10 +61,21 @@ video {
 </html>
 
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+video {
+  width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
 <video width="400" controls>
 <meta name="viewport" content="width=device-width"/>
 <link rel="canonical" href="http://madhatv.in/watch-live.php">
 </video>
+</body>
 </html>
 
 <html>
