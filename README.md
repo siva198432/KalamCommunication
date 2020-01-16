@@ -61,6 +61,11 @@ video {
 </html>
 
 <html>
+<meta name="viewport" content="width=device-width"/>
+<link rel="canonical" href="http://madhatv.in/watch-live.php">
+</html>
+
+<html>
 <marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
 </html>
 ## Governement Jobs
