@@ -62,20 +62,50 @@ video {
 
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-video {
-  width: 100%;
-  height: auto;
+	<title>Madha TV - Online Catholic Christian Channel In Tamil</title>
+	<meta charset="utf-8"/>	
+	<meta name="description" content="Madha Tv is an Online Catholic Christian Channel in Tamil. Madha Tv Watch Live Mass Every Day, Yeduthu Vaasi, birthday wishes, Sunday Mass, Watch live"/>
+	<meta name="keywords" content="tamil christian tv channels, tamil christian tv channels online, christian tv, tamil christian live tv, christian tv channels"/>
+	<meta name="author" content=""/>
+	<meta name="viewport" content="width=device-width"/>
+	<meta http-equiv="expires" content="Mon, 26 Jul 1997 05:00:00 GMT"/>
+	<meta http-equiv="pragma" content="no-cache" />
+	<link rel="canonical" href="http://madhatv.in/">
+	<link rel="stylesheet" href="css/style.css"/>	
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/padding-margin.css"/>
+	<link rel="stylesheet" href="css/all.css"/>
+	<link rel="icon" href="favicon.ico">
+	<link href="https://fonts.googleapis.com/css?family=Volkhov:400,400italic" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900%7CLora:400,400i,700,700i" rel="stylesheet">
+	<style type="text/css">.preloader{position:fixed;width:100%;height:100%;background:#fff;z-index:9999;text-align:center;-webkit-transition:all .5s ease;-moz-transition:all .5s ease;transition:all .5s ease;opacity:1}.spinner{width:40px;height:40px;position:relative;top:50%;left:50%;margin-left:-20px;margin-top:-20px}.double-bounce1,.double-bounce2{width:100%;height:100%;border-radius:50%;background-color:#af0101;opacity:.6;position:absolute;top:0;left:0;-webkit-animation:bounce 2s infinite ease-in-out;animation:bounce 2s infinite ease-in-out}.double-bounce2{-webkit-animation-delay:-1s;animation-delay:-1s}@-webkit-keyframes bounce{0%,100%{-webkit-transform:scale(0)}50%{-webkit-transform:scale(1)}}@keyframes bounce{0%,100%{transform:scale(0);-webkit-transform:scale(0)}50%{transform:scale(1);-webkit-transform:scale(1)}}</style>
+    <script type="application/ld+json"> {
+   "@context": "https://schema.org",
+   "@type": "VideoObject",
+   "name": "Madha TV",
+   "description": "Madha Tv is an Online Catholic Christian Channel in Tamil. Madha Tv Watch Live Mass Every Day, Yeduthu Vaasi, birthday wishes, Sunday Mass": [
+     "http://madhatv.in/images/yeduthu-vasi.png"
+    ],
+   "uploadDate": "2016-03-31T08:00:00+08:00",
+   "duration": "PT22M52S",
+   "contentUrl": "https://www.youtube.com/watch?v=Cg7HEwfyEUs",
+   "embedUrl": "https://www.youtube.com/embed/Cg7HEwfyEUs",
+   "interactionStatistic": {
+     "@type": "InteractionCounter",
+     "interactionType": { "@type": "http://schema.org/WatchAction" },
+     "userInteractionCount": 9
+   }
 }
-</style>
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112044735-1"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+   gtag('config', 'UA-112044735-1');
+</script>
+
 </head>
-<body>
-<video width="400" controls>
-<meta name="viewport" content="width=device-width"/>
-<link rel="canonical" href="http://madhatv.in/watch-live.php">
-</video>
-</body>
 </html>
 
 <html>
