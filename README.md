@@ -61,8 +61,10 @@ video {
 </html>
 
 <html>
+<video width="400" controls>
 <meta name="viewport" content="width=device-width"/>
 <link rel="canonical" href="http://madhatv.in/watch-live.php">
+</video>
 </html>
 
 <html>
