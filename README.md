@@ -15,11 +15,7 @@
 </body>
 </html>
  
-<html>
-<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
-<center> <img src="images/Course.PNG" alt="Trulli" width="600" height="400"> <center>
-</html>
- 
+
 <html>
 <div class="col-sm-4">  
 <div class="playcover">  
@@ -64,6 +60,12 @@ video {
 </video>
 </body>
 </html>
+
+<html>
+<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
+<center> <img src="images/Course.PNG" alt="Trulli" width="600" height="400"> <center>
+</html>
+ 
 
 ## Governement Jobs
 * [Acadamic Jobs click here](https://www.freshersworld.com/jobs/category/govt-sector-job-vacancies){:target="_blank"}
