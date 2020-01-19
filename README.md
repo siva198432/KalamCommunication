@@ -12,10 +12,14 @@
 <img src="im3.png" alt="Trulli" width="800" height="400">
 <img src="im1.jpeg" alt="Trulli" width="200" height="200"> <img src="im5.jpeg" alt="Trulli" width="200" height="200">
 <img src="im6.jpg" alt="Trulli" width="200" height="200"> <img src="im7.jpg" alt="Trulli" width="200" height="200">
-<center> <img src="images/Course.PNG" alt="Trulli" width="600" height="400"> <center> 
 </body>
 </html>
-
+ 
+<html>
+<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
+<center> <img src="images/Course.PNG" alt="Trulli" width="600" height="400"> <center>
+</html>
+ 
 <html>
 <div class="col-sm-4">  
 <div class="playcover">  
@@ -61,10 +65,6 @@ video {
 </body>
 </html>
 
-
-<html>
-<marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
-</html>
 ## Governement Jobs
 * [Acadamic Jobs click here](https://www.freshersworld.com/jobs/category/govt-sector-job-vacancies){:target="_blank"}
 * [Tamil Nadu Public Service Comminsion (TNPSC)](http://www.tnpsc.gov.in/){:target="_blank"}
