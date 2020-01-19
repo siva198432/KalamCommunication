@@ -60,11 +60,6 @@ video {
 </body>
 </html>
 
-<html>
-<video width="320" height="240" controls>
-<source src="http://madhatv.in/" type="video/mp4">
-</video>
-</html>
 
 <html>
 <marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
