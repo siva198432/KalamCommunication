@@ -100,7 +100,7 @@ video {
 
 ## Computer programming 
 * Computer painting, Drawing (For school students)
-* Microsoft Word, Excel, Powerpoint (For 10, 12, Scholl students)
+* Microsoft Word, Excel, Powerpoint (For 10, 12, School students)
 * [C-Program](https://www.programiz.com/c-programming){:target="_blank"} and [C++](https://www.programiz.com/cpp-programming){:target="_blank"} (For Arts, Science and Engineering College students)
 * [Origin Software](https://www.originlab.com/){:target="_blank"} (For Arts, Science and Engineering College students)
 * [Python Software](https://www.python.org/){:target="_blank"} (For Arts, Science and Engineering College students)
