@@ -100,7 +100,7 @@ video {
 
 ## Computer programming 
 * Data Science and Machine Learning
-* Internet of Things (IoT) and Information and Computer Technology(ICT)
+* Internet of Things (IoT) and Information and Computer Technology (ICT)
 * Computer painting, Drawing (For school students)
 * Microsoft Word, Excel, Powerpoint (For 10, 12, School students)
 * [C-Program](https://www.programiz.com/c-programming){:target="_blank"} and [C++](https://www.programiz.com/cpp-programming){:target="_blank"} (For Arts, Science and Engineering College students)
