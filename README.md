@@ -64,7 +64,7 @@ video {
 <html>
 <marquee behavior="scroll" direction="left"> <font size="20" color="blue"> TNPSC Group IV EXAM, Spoken English and Computer Program Online and Offline Coaching will be started very soon.....</font></marquee>
 </html>
-![Course-1](/images/Course.PNG)
+![Course-1](/images/Course1.PNG)
 
 
 ## Governement Jobs
